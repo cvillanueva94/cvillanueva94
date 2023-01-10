@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: krlosvilla101994](https://img.shields.io/badge/-Carlos%20Villanueva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krlosvilla101994-p-singh/)](https://www.linkedin.com/in/krlosvilla101994/)
+[![Linkedin: krlosvilla101994](https://img.shields.io/badge/-Carlos%20Villanueva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cvillanueva94-p-singh/)](https://www.linkedin.com/in/cvillanueva94/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
